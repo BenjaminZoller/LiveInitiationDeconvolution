@@ -1,5 +1,5 @@
 # LiveInitiationDeconvolution
-Analysis code for performing Bayesian deconvolution
+Analysis code for performing Bayesian deconvolution of transcriptional bursts
 ------------------------------
 
 The Matlab scripts and functions are provided to perform the deconvolution of initiation events and estimate bursting parameters as described in the manuscript. Test data is provided for hb NC14.
